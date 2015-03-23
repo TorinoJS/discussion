@@ -1,7 +1,7 @@
 ### Cos'é TorinoJS?
 TorinoJS è un gruppo dedicato a javascript e alle tecnologie web open source.
 
-![Torino Javascript logo](https://cloud.githubusercontent.com/assets/8074/6733101/3ac5b3a6-ce50-11e4-9741-845c94f6bf7b.png)
+![Torino Javascript logo](https://cloud.githubusercontent.com/assets/8074/6778491/49b975b8-d153-11e4-9645-363f37e6222c.png)
 
 Per informazioni o candidarti ai prossimi eventi puoi aprire una issue.
 
