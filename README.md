@@ -15,3 +15,8 @@ Programma e registrazioni: http://www.eventbrite.it/e/biglietti-jsnight-torino-i
 - Facebook: https://www.facebook.com/torinojs
 - Discussione: https://github.com/TorinoJS/discussion/issues
 - Meetup: https://meetup.com/Torino-JS/
+
+Canali non ufficiali
+
+- Linkedin: https://www.linkedin.com/groups/TorinoJS-6953656
+- Google Plus: https://plus.google.com/communities/106863109636355432407
