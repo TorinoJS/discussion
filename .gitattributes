@@ -1,0 +1,31 @@
+# Forza LF per tutti i file di testo
+* text=auto eol=lf
+
+# File che devono sempre usare LF
+*.js    text eol=lf
+*.jsx   text eol=lf
+*.ts    text eol=lf
+*.tsx   text eol=lf
+*.css   text eol=lf
+*.html  text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+*.astro text eol=lf
+*.mjs   text eol=lf
+*.cjs   text eol=lf
+*.svg   text eol=lf
+
+# File binari — nessuna modifica
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.webp  binary
+*.avif  binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.eot   binary
