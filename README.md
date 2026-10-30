@@ -1,4 +1,5 @@
-### Cos'é TorinoJS?
+# Cos'é TorinoJS?
+
 TorinoJS è un gruppo dedicato a javascript e alle tecnologie web open source.
 
 Probabilmente sei qui per candidarti come relatore a una **#jsNight** futura o [partecipare alla discussione](https://github.com/TorinoJS/discussion/issues)
@@ -9,12 +10,12 @@ Per informazioni o candidarti ai prossimi eventi puoi aprire una issue.
 
 ## Contatti
 
-- Twitter: https://twitter.com/TorinoJS
-- Facebook: https://www.facebook.com/torinojs
-- Discussione: https://github.com/TorinoJS/discussion/issues
-- Meetup: https://meetup.com/Torino-JS/
+- Twitter: <https://twitter.com/TorinoJS>
+- Facebook: <https://www.facebook.com/torinojs>
+- Discussione: <https://github.com/TorinoJS/discussion/issues>
+- Heylo: <https://heylo.group/torinojs/>
 
 Canali non ufficiali
 
-- Linkedin: https://www.linkedin.com/groups/TorinoJS-6953656
-- Google Plus: https://plus.google.com/communities/106863109636355432407
+- Linkedin: <https://www.linkedin.com/groups/TorinoJS-6953656>
+- Google Plus: <https://plus.google.com/communities/106863109636355432407>
